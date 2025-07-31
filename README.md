@@ -1,45 +1,83 @@
-# Hi there 👋
+<!-- GitHub Profile README -->
 
-I am **Shubham**, a Senior Staff Engineer (Development, DevOps, Platform Engineering) from 🇮🇳 passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 💻
+<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Nirakar</a> 👋</h1>
 
-I mostly work with Python, MVC Frameworks, and Cloud-based technologies. 🚀
-
-## Technologies I Work With
-
-### Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gRPC/gRPC.png" alt="gRPC" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Engineer+%7C+DevOps+%7C+Cloud+%7C+Python;8%2B+Years+Experience+in+Tech;Open+Source+Contributor+%F0%9F%92%AA%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-### DevOps
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/digitalocean/digitalocean.png" alt="DigitalOcean" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="50" height="50"/>
+  <a href="https://trainwithshubham.com"><img src="https://img.shields.io/badge/Website-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-### Databases and Monitoring
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prometheus/prometheus.png" alt="Prometheus" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/influxdb/influxdb.png" alt="InfluxDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" height="50"/>
-</p>
-
-## How to Reach Me?
-
-- Visit my [Website](https://www.trainwithshubham.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/)
-- Follow me on Telegram: [TrainWithShubham](https://t.me/trainwithshubham)
-- Follow me on Twitter: [@TrainWithShubham](https://twitter.com/TrainWithShubham)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=dark)
 
 ---
 
-Feel free to explore my repositories and connect with me! 😊
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working as **Senior Technical Cansultant (DevOps, Platform Engineering)**
+- 🌱 Passionate about building scalable and production-ready apps with **10+ years** of experience
+- 💬 Ask me about anything related to ** DevOps, Docker, Kubernetes, CI/CD, Cloud (AWS/Azure/GCP)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🔧 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Databases
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="47%"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nirakar-pradhan-163aa425/))
+- 📫 Email: nirakar771987@gmail.com
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
