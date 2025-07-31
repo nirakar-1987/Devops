@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Nirakar</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Engineer+%7C+DevOps+%7C+Cloud+%7C+Python;8%2B+Years+Experience+in+Tech;Open+Source+Contributor+%F0%9F%92%AA%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&center=true&vCenter=true&width=435&lines=%7C+DevOps+%7C+Cloud+%7C+Python;10%2B+Years+Experience+in+Tech;Open+Source+Contributor+%F0%9F%92%AA%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
